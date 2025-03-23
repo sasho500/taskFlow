@@ -398,3 +398,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Angular build output
+client/dist/
+
+# Environment files
+*.env
+.env.local
+docker-compose.override.yml
